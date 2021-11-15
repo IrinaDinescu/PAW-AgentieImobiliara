@@ -1,0 +1,63 @@
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.UserControl1.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.Interfata1.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.UserControl2.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.UserControl3.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.Interfata2.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.Form_PlaseazaAnunt.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.Form_AfisareAnunturi.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.Form_ContulMeu.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.Form_DateleMele.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.Form_AnunturileMele.resources
+D:\Facultate Anul 2\Sem II\P.A.W\EU\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_AfisareAnunturi.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_AnunturileMele.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_ContulMeu.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_DateleMele.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_PlaseazaAnunt.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_SalvareAnunturi.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Interfata1.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Interfata2.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.UserControl1.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.UserControl2.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.UserControl3.resources
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\bin\Debug\Database1.mdf
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\bin\Debug\Database1_log.ldf
+C:\Irina\Facultate anul II\PAW\Proiect\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\bin\Debug\Database1.mdf
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\bin\Debug\Database1_log.ldf
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_AfisareAnunturi.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_AnunturileMele.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_ContulMeu.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_DateleMele.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_PlaseazaAnunt.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form_SalvareAnunturi.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Interfata1.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Interfata2.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.UserControl1.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.UserControl2.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.UserControl3.resources
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Irina\Facultate anul II\PAW\Proiect02\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

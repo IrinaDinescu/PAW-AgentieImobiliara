@@ -1,0 +1,4 @@
+Categori: Casa Tip anunt: InchiriereSuprafata: 100 m2  Pret: 1500 Localizare: Bucuresti
+Categori: Spatiu Comercial Tip anunt: InchiriereSuprafata: 500 m2  Pret: 5000 Localizare: Timisoara
+Categori: Casa Tip anunt: InchiriereSuprafata: 100 m2  Pret: 1500 Localizare: Bucuresti
+
